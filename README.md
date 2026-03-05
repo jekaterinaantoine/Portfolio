@@ -1,4 +1,4 @@
-# 🌿 Jekaterina Antoine — Portfolio
+# Jekaterina Antoine — Portfolio
 
 A personal portfolio website built with React and Vite, showcasing my journey into web development, my projects, and the skills I have developed along the way.
 

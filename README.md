@@ -1,16 +1,72 @@
-# React + Vite
+# 🌿 Jekaterina Antoine — Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio website built with React and Vite, showcasing my journey into web development, my projects, and the skills I have developed along the way.
 
-Currently, two official plugins are available:
+🔗 **Live Site:** [jekaterinaa.surge.sh](https://jekaterinaa.surge.sh/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 👩‍💻 About
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I am a junior developer based in Barcelona with a background in luxury hospitality. I discovered web development along the way and went all in - joining a bootcamp and building projects that reflect my care for clean interfaces, thoughtful structure, and experiences that just feel right.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Built With
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+
+---
+
+## ✨ Features
+
+- Responsive design for all screen sizes
+- Hamburger menu for mobile navigation
+- About me section with skills showcase
+- Projects section with live demo links
+- Contact section with direct links to email, LinkedIn, and GitHub
+
+---
+
+## 📦 Projects Featured
+
+### 🌿 Ease — Mood-Based Store
+A mood-based e-commerce web app that lets users explore and shop products based on how they feel - creating a shopping experience that is personal, intuitive, and emotionally driven.
+
+🔗 [Live Demo](https://mood-based-store-project.vercel.app/)
+
+### ⚡ EnergyFlow
+A mobile app that helps you take control of your daily energy. Log your activities throughout the day, spot patterns, and discover what truly boosts or drains you - so you can build better habits, one day at a time.
+
+---
+
+## 🚀 Getting Started
+
+```bash
+# Clone the repository
+git clone https://github.com/jekaterinaantoine/YOUR_REPO_NAME.git
+
+# Go into the project
+cd YOUR_REPO_NAME
+
+# Install dependencies
+npm install
+
+# Start the dev server
+npm run dev
+```
+
+---
+
+## 📬 Contact
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jekaterinaantoine@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jekaterina-antoine-01634b106/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jekaterinaantoine)
+
+---
+
+© 2026 Jekaterina Antoine — Designed & built by me

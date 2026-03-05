@@ -16,13 +16,13 @@ const About = () => {
             <p className="about__main--text--para">
               I spent years in luxury hospitality, where every detail mattered
               and high standards were not optional. Along the way, I discovered
-              web development — the logic, the structure, and the satisfaction
+              web development - the logic, the structure, and the satisfaction
               of building something that works beautifully. So I started
               exploring it on my own, and when I realized I truly loved it, I
               went all in and joined a bootcamp.
             </p>
             <p className="about__main--text--para">
-              It was not a leap into the unknown — it felt like finally finding
+              It was not a leap into the unknown - it felt like finally finding
               the right fit. The care I once brought to every guest experience,
               I now bring to my code: clean interfaces, thoughtful structure,
               and experiences that just feel right.

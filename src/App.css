@@ -294,6 +294,7 @@ nav a:hover {
     margin:auto;
     line-height: 1.6;
     color:rgb(92, 92, 92);
+    margin-bottom: 16px;
 }
 
 .project__container {

@@ -3,7 +3,7 @@ const Projects = () => {
     <section className="project__main" id="projects">
       <h1 className="project__heading--prim">Projects</h1>
       <h2 className="project__heading--sec">
-        A selection of the things I have built — each one a step forward in
+        A selection of the things I have built - each one a step forward in
         craft and code
       </h2>
 
@@ -27,7 +27,7 @@ const Projects = () => {
           <p className="project__main--text--para">
             Ease is a mood-based e-commerce web app built as a portfolio
             project. It lets users explore and shop products based on how they
-            feel — creating a shopping experience that is personal, intuitive,
+            feel - creating a shopping experience that is personal, intuitive,
             and emotionally driven.
           </p>
           <div className="skills" style={{ marginBottom: "2rem" }}>
@@ -63,7 +63,7 @@ const Projects = () => {
           <p className="project__main--text--para">
             A mobile app that helps you take control of your daily energy. Log
             your activities throughout the day, spot patterns, and discover what
-            truly boosts or drains you — so you can build better habits, one day
+            truly boosts or drains you - so you can build better habits, one day
             at a time.
           </p>
           <div className="skills" style={{ marginBottom: "2rem" }}>

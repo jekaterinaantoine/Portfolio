@@ -48,7 +48,7 @@ const Projects = () => {
       </div>
 
       {/* Project 2 - Mobile App */}
-      <div className="project__container">
+      <div className="project__container" style={{ marginTop: "40px" }}>
         <div className="project__image--wrap project__image--mobile">
           <a href="https://github.com/jekaterinaantoine/Social-Energy-Simulator-project" target="_blank" rel="noopener noreferrer">
             <img

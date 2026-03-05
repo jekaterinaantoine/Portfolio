@@ -104,6 +104,10 @@ nav a:hover {
     padding: 0;
 }
 
+.hamburger:hover .hamburger__line {
+    background-color: rgb(155, 180, 192);
+}
+
 .hamburger__line {
     display: block;
     width: 100%;
@@ -111,7 +115,6 @@ nav a:hover {
     background-color: black;
     transition: all 0.3s;
 }
-
 
 .hero__wrapper {
     color:black;

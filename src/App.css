@@ -498,6 +498,10 @@ nav a:hover {
     .header__logo--sub {
         font-size: 1.2rem;
     }
+
+    #about, #projects, #contact {
+        scroll-margin-top: 5rem;
+    }
 }
 
 /* Mobile — 480px and below */

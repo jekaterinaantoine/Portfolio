@@ -18,7 +18,7 @@ const Projects = () => {
             <img
               className="project__image"
               src="/images/ease.png"
-              alt="Ease mood-based store screenshot"
+              alt="Ease Mood-Based Store web app screenshot"
             />
           </a>
         </div>
@@ -50,10 +50,10 @@ const Projects = () => {
       {/* Project 2 - Mobile App */}
       <div className="project__container">
         <div className="project__image--wrap project__image--mobile">
-          <a href="YOUR_APP_LINK" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/jekaterinaantoine/Social-Energy-Simulator-project" target="_blank" rel="noopener noreferrer">
             <img
               className="project__image project__image--app"
-              src="/images/energyflow.png"
+              src="/images/simulator.png"
               alt="EnergyFlow mobile app screenshot"
             />
           </a>
@@ -71,7 +71,7 @@ const Projects = () => {
             <img className="skills__skill" src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" alt="Expo" />
           </div>
           <a
-            href="YOUR_APP_LINK"
+            href="https://github.com/jekaterinaantoine/Social-Energy-Simulator-project"
             target="_blank"
             rel="noopener noreferrer"
             className="button"

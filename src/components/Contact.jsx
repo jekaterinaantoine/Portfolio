@@ -4,7 +4,7 @@ const Contact = () => {
       <h1 className="contact__heading--prim">Contact</h1>
       <h2 className="contact__heading--sec">
         I am currently open to junior developer opportunities. Feel free to
-        reach out — I would love to connect.
+        reach out - I would love to connect.
       </h2>
       <div className="contact__icons">
         <a

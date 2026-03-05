@@ -23,7 +23,7 @@ const Projects = () => {
           </a>
         </div>
         <div className="project__content">
-          <h3 className="project__content--heading">Ease — Mood-Based Store</h3>
+          <h3 className="project__content--heading">Ease - Mood-Based Store</h3>
           <p className="project__main--text--para">
             Ease is a mood-based e-commerce web app built as a portfolio
             project. It lets users explore and shop products based on how they
@@ -59,7 +59,7 @@ const Projects = () => {
           </a>
         </div>
         <div className="project__content">
-          <h3 className="project__content--heading">EnergyFlow</h3>
+          <h3 className="project__content--heading">EnergyFlow - Social Energy Simulator</h3>
           <p className="project__main--text--para">
             A mobile app that helps you take control of your daily energy. Log
             your activities throughout the day, spot patterns, and discover what

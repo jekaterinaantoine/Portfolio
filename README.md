@@ -38,7 +38,7 @@ A mood-based e-commerce web app that lets users explore and shop products based 
 
 🔗 [Live Demo](https://mood-based-store-project.vercel.app/)
 
-### ⚡ EnergyFlow
+### ⚡ Boost&Burn
 A mobile app that helps you take control of your daily energy. Log your activities throughout the day, spot patterns, and discover what truly boosts or drains you - so you can build better habits, one day at a time.
 
 ---

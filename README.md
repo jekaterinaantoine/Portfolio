@@ -41,6 +41,9 @@ A mood-based e-commerce web app that lets users explore and shop products based 
 ### ⚡ Boost&Burn — Social Energy Simulator
 A mobile app that helps you take control of your daily energy. Log your activities throughout the day, spot patterns, and discover what truly boosts or drains you - so you can build better habits, one day at a time.
 
+🔗 [App Store](https://apps.apple.com/es/app/boost-burn/id6760339479?l=en-GB)
+🔗 [Google Play](https://play.google.com/store/apps/details?id=com.barcelonacodeschool.boostburn)
+
 ---
 
 ## 🚀 Getting Started
